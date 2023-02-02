@@ -4,4 +4,6 @@ This is an example repository for the Git tutoial on https://www.w3schools.com
 
 Changes made from the GitHub editor.
 
+Another change from the GitHub editor.
+
 This repository is built step by step in the tutorial.
